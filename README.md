@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratiksha Ganjave
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @pratikshaganjave
